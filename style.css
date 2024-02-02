@@ -7,7 +7,24 @@ body {
     background: rgb(252, 242, 242);
 }
 
-h1, h2 {
+nav {
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(47, 0, 255);
+}
+
+body h1 {
+    text-align: center;
+    border-style: solid;
+}
+
+h2 {
     text-align: center;
 }
 
@@ -35,5 +52,5 @@ p {
     padding: 16px;
     background-color: rgb(55, 130, 211);
     color: white;
-    margin-right: 20px;
+    margin: auto;
 }
