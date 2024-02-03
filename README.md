@@ -12,3 +12,8 @@ I've also added an image which would usually disguise as my personal profile pic
 # Uniform Section
 
 In this section I added the list element with links attached to it which would usually lead to my projects relating to those listed but... they're blank.
+
+# Boot Section
+
+This is pretty much the last section of the webpage. I added social media buttons, adding a hover animation to it. I jumped on youtube to see how I could do this. 
+I ran the code through the validation check-up, there was a few errors popping up which some were rectified and some were just plain confusing, but this being the first time ever writing code from scratch to create my first webpage. I'm pretty happy with how it turned out. Plenty of room for improvement.
