@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: rgb(252, 242, 242);
+    background: rgb(248, 248, 248);
 }
 
 nav {
@@ -27,6 +27,8 @@ nav a:hover {
     text-align: center;
     border-style: solid;
     border-radius: 10px;
+    background-color: black;
+    color: white;
 }
 
 #hero h2 {
@@ -67,6 +69,6 @@ body #hero {
 }
 
 body #uniform {
-    margin: 20px;
-    border-style: ;
+    margin: 40px;
+    background: gainsboro;
 }
