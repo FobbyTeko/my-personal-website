@@ -13,18 +13,23 @@ nav {
     text-align: center;
 }
 
-a {
+nav a {
     margin: 20px;
     text-decoration: none;
     color: rgb(47, 0, 255);
 }
 
-body h1 {
-    text-align: center;
-    border-style: solid;
+nav a:hover {
+    color: rgb(27, 9, 107);
 }
 
-h2 {
+#Top {
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#hero h2 {
     text-align: center;
 }
 
@@ -35,13 +40,13 @@ h2 {
     width: 100%;
 }
 
-section {
+body #hero {
     margin: 40px auto;
     gap: 30px;
     max-width: 300px;
 }
 
-p {
+#hero p {
     margin: 0;
     text-align: center;
 }
@@ -52,5 +57,16 @@ p {
     padding: 16px;
     background-color: rgb(55, 130, 211);
     color: white;
-    margin: auto;
+    margin-left: 10px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: rgb(2, 49, 99);
+}
+
+body #uniform {
+    margin: 20px;
+    border-style: ;
 }
